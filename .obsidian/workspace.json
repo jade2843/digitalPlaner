@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "c81ebcb0bd361ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a77b0c3b44fce63f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "913c737669a1d587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트관리/5._외주개발_quickstart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b7d8e0fc23c6f70",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6dd42b6b38db8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ea218ad5dcfbd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78c1b337ac53e38c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1161fd86e80ff6ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b3925c7f588653f",
+    "type": "split",
+    "children": [
+      {
+        "id": "045a597db57dc525",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11674cc572f3d0e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "프로젝트관리/5._외주개발_quickstart.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ea02c12230aff3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "프로젝트관리/5._외주개발_quickstart.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb0b57261b2020d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2aa4385470fd9af4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "프로젝트관리/5._외주개발_quickstart.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "913c737669a1d587",
+  "lastOpenFiles": [
+    "프로젝트관리/1._project_기초상식.md"
+  ]
+}
