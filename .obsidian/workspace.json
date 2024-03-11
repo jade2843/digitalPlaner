@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "139fa0cd168882eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompt 요약.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b200d0aabbf7851b",
             "type": "leaf",
             "state": {
@@ -30,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4a73294c6e40221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompt 요약2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software/goodsoftware.md",
+                "file": "prompt 요약2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "software/goodsoftware.md",
+                "file": "prompt 요약2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "software/goodsoftware.md"
+                "file": "prompt 요약2.md"
               }
             }
           }
@@ -158,10 +183,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "913c737669a1d587",
+  "active": "f4a73294c6e40221",
   "lastOpenFiles": [
-    "테스트01.md",
+    "prompt 요약2.md",
     "software/goodsoftware.md",
+    "prompt 요약.md",
+    "prompt",
+    "새 폴더",
+    "테스트01.md",
     "file.txt",
     "software/4._Obsidian과_markdown.md",
     "프로젝트관리/5._외주개발_quickstart.md",
